@@ -66,9 +66,9 @@ sw.log("Channel Access Token : " + str(channel11.channelAccessToken))
 print("---LOGIN SUCCES BOSS- SELFBOT SOLO")
 poll = LinePoll(cl)
 call = cl
-creator = ["uf50d888821632d32461e37153ac775c0"]
-owner = ["uf50d888821632d32461e37153ac775c0"]
-admin = ["uf50d888821632d32461e37153ac775c0"]
+creator = ["uc5fe9ad700605943049cb629d6416fc2"]
+owner = ["uc5fe9ad700605943049cb629d6416fc2"]
+admin = ["uc5fe9ad700605943049cb629d6416fc2"]
 staff = ["uf50d888821632d32461e37153ac775c0"]
 mid = cl.getProfile().mid
 Amid = ki.getProfile().mid
